@@ -20,3 +20,6 @@
 - tupsu, eduroam, muiden palveluiden kulut
 
 - [Laki yhteishallinnosta valtion tukemissa vuokrataloissa](https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2022/1169#OT7), vaatii että asukkaiden ja vuokrataloyhteisön väliselle yhteistyöelimelle pitää tiedottaa tulevista kilpailutuksista ja varata mahdollisuus esittää huomionsa.
+
+- DNA:lta ei saa 1/1 gbps liittymää edes rahalla
+  - 1000/500 30€/kk
