@@ -23,3 +23,13 @@
 
 - DNA:lta ei saa 1/1 gbps liittymää edes rahalla
   - 1000/500 30€/kk
+
+## domo
+
+Ensimmäinen kuva tallennettu domon vuokrasopparista 19.1.
+
+![ennen](media/domo-2026-01-19.jpg)
+
+Sen jälkeen 1/1Gbps nopeus on kätevästi poistunut sopimuksen tiedoista
+
+![jälkeen](media/domo-2026-01-19-after.jpg)
