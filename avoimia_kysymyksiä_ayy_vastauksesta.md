@@ -1,4 +1,4 @@
-AYY julkaisi [tiedotteen](https://www.ayy.fi/fi/mika-on-trinet-ja-mita-ayyn-nettiyhteydelle-tapahtuu) 11.2.2026 
+AYY julkaisi [tiedotteen](https://www.ayy.fi/fi/mika-on-trinet-ja-mita-ayyn-nettiyhteydelle-tapahtuu) 11.2.2026 [Internet Archive](https://web.archive.org/web/20260211224527/https://www.ayy.fi/fi/mika-on-trinet-ja-mita-ayyn-nettiyhteydelle-tapahtuu)
 
 Alla on kommentoitu tiedotteen väitteitä
 
@@ -36,7 +36,7 @@ Paljonko tuo yhteys nykytilanteessa maksaa? Mitä maksaa vastaava yhteys jatkoss
 > Asiassa on kuultu ASY:a ja edustajistoa
 
 Milloin? Jälkikäteen kun kilpailutus on jo tehty ja sopimus olemassa? Erityisesti ASY:n osalta: onko kuultu ennen kilpailutusta, kuten [laki](https://www.finlex.fi/fi/lainsaadanto/2022/1169#sec_8) vaatii? 
-Jutussa kerrotun mukaan ensimmäinen julkinen tiedote asiasta on 17.12.25 julkaistu [tiedote](https://www.ayy.fi/fi/ayyn-kiinteistojen-internet-yhteyden-toimittaja-vaihtuu), 
+Jutussa kerrotun mukaan ensimmäinen julkinen tiedote asiasta on 17.12.25 julkaistu [tiedote](https://www.ayy.fi/fi/ayyn-kiinteistojen-internet-yhteyden-toimittaja-vaihtuu) [Internet Archive](https://web.archive.org/web/20260211224029/https://www.ayy.fi/fi/ayyn-kiinteistojen-internet-yhteyden-toimittaja-vaihtuu), 
 jossa kerrotaan, että kilpailutus on jo tehty.
 
 ---
