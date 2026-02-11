@@ -1,4 +1,5 @@
 AYY julkaisi [tiedotteen](https://www.ayy.fi/fi/mika-on-trinet-ja-mita-ayyn-nettiyhteydelle-tapahtuu) 11.2.2026 
+
 Alla on kommentoitu tiedotteen väitteitä
 
 > \[Trinet\] ei ole enää kilpailukykyinen tänä päivänä  
