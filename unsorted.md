@@ -24,6 +24,10 @@
 - DNA:lta ei saa 1/1 gbps liittymää edes rahalla
   - 1000/500 30€/kk
 
+- Fun fact: 100M yhteys oli Trinetin mukaan "reliikki 90-luvulta" [jo 15 vuotta sitten](https://web.archive.org/web/20110711032928/http://verkko.ayy.fi/description/).
+
+![Trinet service description](media/trinet-network-service-description.png)
+
 ## domo
 
 Ensimmäinen kuva tallennettu domon vuokrasopimuksen yhteydestä, sivulta joka otsikoitu "Sopimuksen asunnon tiedot" 19.1.
