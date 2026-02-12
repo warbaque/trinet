@@ -26,10 +26,10 @@
 
 ## domo
 
-Ensimmäinen kuva tallennettu domon vuokrasopparista 19.1.
+Ensimmäinen kuva tallennettu domon vuokrasopimuksen yhteydestä, sivulta joka otsikoitu "Sopimuksen asunnon tiedot" 19.1.
 
 ![ennen](media/domo-2026-01-19.jpg)
 
-Sen jälkeen 1/1Gbps nopeus on kätevästi poistunut sopimuksen tiedoista
+Sen jälkeen 1/1Gbps nopeus on kätevästi poistunut sopimuksen asunnon tiedoista
 
 ![jälkeen](media/domo-2026-01-19-after.jpg)
